@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![IMG](https://github.com/IgorRodrigues882/Sitemarcenaria-vue.js/blob/main/Orçamento%20imagem.png)
